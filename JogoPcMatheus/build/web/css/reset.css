@@ -1,0 +1,19 @@
+/* Texto */
+/* Remove margens, paddings e define bordas como 0 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Remove decorações padrão de links */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Define fontes padrão */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
